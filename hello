@@ -1,2 +1,192 @@
+<<<<<<< HEAD
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>个人网站</title>
+
+<link href="css/index.css" rel="stylesheet" type="text/css">
+<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="css/nav.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="bj">
+	<div class="bj-inner">
+        <div class="bj-quan-1"></div>
+        <div class="bj-quan-2"></div>
+        <div class="bj-quan-3"></div>
+        <div class="bj-line-1"></div>
+        <div class="bj-line-2"></div>
+        <div class="bj-shi-1"></div>
+        <div class="bj-shi-2"></div>
+	</div>
+
+
+</div>
+
+
+
+
+<nav>
+	<div class="nav-inner">
+    	<div class="sanjiao">
+       	  <h4>UI</h4>
+            <h5>Designer</h5>
+			<div class="sanjiao-1">
+              <div class="sanjiao-inner">
+                	<div class="baikuai"></div>
+                </div>
+            
+          </div>
+      </div>
+   	  <div class="logo"><a href="#"><img src="images/logo_03.jpg"></a></div>
+        <p>LEAF <br/>GE REN ZHAN</p>
+        <ul class="nav-nav">
+        	<li><a href="#" id="border-bottom">Home</a></li>
+        	<li class="margin-right174"><a href="about.html">About</a></li>
+        	<li><a href="works.html">Works</a></li>
+        	<li><a href="contact.html">contact</a></li>
+        </ul>
+    	<div class="logo-right">
+          <a href="#"><i class="fa fa-qq"></i></a>
+          <a href="#"><i class="fa fa-envelope"></i></a>
+            <h4>135&nbsp;1100&nbsp;8866</h4>
+        </div>
+    </div>
+</nav>
+<section>
+	<div class="section-inner">
+    
+        <div class="yuan">
+            <h2>我是UI设计师<br>我为自己代言</h2>
+            <p>你的选择&nbsp;我的期待</p>
+            <h6>discover</h6>
+        </div>
+        <div class="section-fan">
+            <h1>UI</h1>
+            <p>设&nbsp;计&nbsp;师</p>
+            <h3>你的选择&nbsp;我的期待</h3>
+        </div>
+        <div class="logo-2"><img src="images/logo-2_03.png"></div>
+        <h5>leaf<br>ge ren zhan</h5>
+        <div class="jian-tou">
+            <div class="jian-tou-1"></div>
+            <div class="jian-tou-2"></div>
+            <i class="fa fa-angle-down"></i>
+        </div>
+        
+        
+        
+	</div>	
+</section>
+
+
+
+<section>
+	<div class="section-2">
+    	<h1>My</h1>
+        <h2>works</h2>
+        <div class="work-1">
+            <div class="shu-xian"></div>
+            <h2>m</h2>
+            <div class="pic-2"><img src="images/work_1_03.jpg"></div>
+            <div class="pic-1"><img src="images/work_03.jpg"></div>
+            <div class="pic-3">
+            	<h5>UI display</h5>
+                <p>撒奥斯卡的肌肤时夫<br>阿斯顿飞机撒开了方阿登记桑<br>德菲杰阿斯利康发动</p>
+            	<div class="more">more<i class="fa fa-angle-double-right"></i></div>
+            </div>
+            
+            <h1>a</h1>
+            <h3>u</h3>
+            <h4>i</h4>
+            
+        </div>
+        <div class="work-1">
+            <div class="shu-xian"></div>
+            <h2>d</h2>
+            <div class="pic-2"><img src="images/work_1_03 (2).jpg"></div>
+            <div class="pic-1"><img src="images/work_03 (2).jpg"></div>
+            <div class="pic-3">
+            	<h5>UI display</h5>
+                <p>撒奥斯卡的肌肤时夫<br>阿斯顿飞机撒开了方阿登记桑<br>德菲杰阿斯利康发动</p>
+            	<div class="more">more<i class="fa fa-angle-double-right"></i></div>
+            </div>
+            
+            <h1>e</h1>
+            <h3>i</h3>
+            <h4>s</h4>
+            
+        </div>
+        <div class="work-1">
+            <div class="shu-xian"></div>
+            <h2>g</h2>
+            <div class="pic-2"><img src="images/work_1_3.jpg"></div>
+            <div class="pic-1"><img src="images/work_11.jpg"></div>
+            <div class="pic-3">
+            	<h5>UI display</h5>
+                <p>撒奥斯卡的肌肤时夫<br>阿斯顿飞机撒开了方阿登记桑<br>德菲杰阿斯利康发动</p>
+            	<div class="more">more<i class="fa fa-angle-double-right"></i></div>
+            </div>
+            
+            <h1>n</h1>
+            <h3>e</h3>
+            <h4>r</h4>
+            
+        </div>
+	</div>
+
+
+</section>
+
+
+
+
+
+<footer>
+	<div class="footer-inner">
+        <div class="footer-top">
+                    <h1>Thank You</h1>
+                    <p>如果您觉得我合适你们<br>
+            可以联系我所要我详细的文字信息<br>
+            及所有我能提供的资料<br>
+            <br>
+            请您猛戳下面的联系方式！！<br>
+            期待您的来电</p>
+            </div>
+        <div class="lian-xi">
+            <div class="lian padding-bottom30">
+                <div class="lian-1">
+                    <i class="fa fa-envelope"></i>
+                    <p>WECHAT //<span><br>dayezidefsadf,3399</span></p>
+                </div>
+                <div  class="lian-2">
+                    <i class="fa fa-qq"></i>
+                    <p>WECHAT //<span><br>dayezidefsadf,3399</span></p>
+                </div>
+            </div>
+            <div class="lian">
+                <div class="lian-1">
+                    <i class="fa fa-weixin"></i>
+                    <p>WECHAT //<span><br>dayezidefsadf,3399</span></p>
+                </div>
+                <div  class="lian-2">
+                    <i class="fa fa-mobile"  id="font-size30"></i>
+                    <p>WECHAT //<span><br>dayezidefsadf,3399</span></p>
+                </div>
+            </div>
+        </div>	
+        <div class="logo-down"><img src="images/logo-2_03.png"></div>
+        <p>LEAF<br>
+    GE REN ZHAN</p>
+    </div>
+
+</footer>
+
+
+
+</body>
+</html>
 hello
 hi
